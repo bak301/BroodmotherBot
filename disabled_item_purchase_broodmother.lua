@@ -1,4 +1,0 @@
-function ItemPurchaseThink()
-    
-    return
-end
