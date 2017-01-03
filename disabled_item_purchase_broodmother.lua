@@ -1,0 +1,4 @@
+function ItemPurchaseThink()
+    
+    return
+end
