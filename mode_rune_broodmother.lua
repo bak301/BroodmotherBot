@@ -17,7 +17,7 @@ function OnStart()
 end
 
 function Think()
-    local web_spot = radiant_safelane_bounty - Vector(-800, 0, 256);
+    local web_spot = radiant_safelane_bounty - Vector(-500, -500);
     broodmother:Action_MoveToLocation(radiant_safelane_bounty);
     -- Put a web to prepare to steal rune
     if (not isWebCoveredRune)
